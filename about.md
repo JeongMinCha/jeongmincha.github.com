@@ -34,7 +34,7 @@ E-mail. cjm9236@hanyang.ac.kr
 
 ### 기타 특기 사항
 국가우수장학금(이공계) 장학생 선발  
-CourseraCertificate­MachineLearning  
+Coursera Certificate for [Machine Learning](https://www.coursera.org/learn/machine-learning/home)  
 KaggleCompetition 참여  
 어플리케이션 및 서버 아웃소싱 개발 - [키다리 은행](https://www.facebook.com/kidaribank)  
 인하대학교 기업가 센터 주관 슈퍼 챌린지 해커톤 과정에서 BestDeveloper 상 수상  
