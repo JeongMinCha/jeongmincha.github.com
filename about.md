@@ -13,8 +13,8 @@ E-mail. cjm9236@hanyang.ac.kr
 - 학사, 공과대학 컴퓨터 전공
     - 한양대학교, 서울
     - 2012년 3월 - 2017년 2월 (졸업 예정)
-    - GPA       4.06/4.50
-    - MajorGPA  4.17/4.50
+    - GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.06/4.50
+    - MajorGPA&nbsp;&nbsp;&nbsp;4.17/4.50
 
 ### 연구 경험
 **데이터 마이닝 연구실 산학 프로젝트 수행** <span style="float:right;">DEC 2015 - MAY 2016</span>  
