@@ -20,9 +20,9 @@ markdown: kramdown
 permalink: pretty
 highlighter: false
 
-safe: true
-lsi: true
+#safe: true
+#lsi: true
 
-gems:
-    - jekyll-redirect-form
-    - jemoji
+#gems:
+#    - jekyll-redirect-form
+#    - jemoji
