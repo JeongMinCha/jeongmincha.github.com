@@ -15,3 +15,9 @@ E-mail. cjm9236@hanyang.ac.kr
     - 2012년 3월 - 2017년 2월 (졸업 예정)
     - GPA       4.06/4.50
     - MajorGPA  4.17/4.50
+
+### 연구 경험
+**데이터 마이닝 연구실 산학 프로젝트 수행**<span style="float:right;">DEC 2015 - MAY 2016</span>  
+한양대학교 DAKE (데이터 및 지식 공학) 연구실에서 ‘신뢰 네트워크를 기반으로 평점 행렬을 채워나가는 Imputation 방법의 성능 검증 실험’을 주제로 산학 프로젝트를 수행하였고, 한양대학교 컴퓨터공학부 특성화사업단에 이 연구에 대한 지원을 받은 바 있습니다.  
+**추천 시스템을 주제로 졸업 논문 작성**<span style="float:right;">MAY 2016 - OCT 2016</span>  
+논문의 제목은 '신뢰 네트워크에서 직접 연결된 이웃들을 활용한 추천을 위한 대치 방법 (An Imputation MethodUsingDirectlyConnectedNeighborsinaTrustNetworkforRecommendation)' 입니다. 작성한 논문은 2015년 정보처리학회 추계학술발표대회에 제출하여 논문집에 수록되었습니다.  
