@@ -11,6 +11,10 @@ baseurl: ""
 url: "http://yourdomain.com"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolin", \
+    "strikethrough", "superscript", "with_toc_data", "tables"]
+
 permalink: pretty
 highlighter: false
