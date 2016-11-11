@@ -2,11 +2,13 @@
 title: JEONGMIN CHA's homepage
 email: cjm9236@hanyang.ac.kr
 
+twitter_username: cjm9236
+github_username: JeongMinCha
+facebook_username: cjm9236
+
 description: "This is my homepage - from JEONGMIN CHA"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
