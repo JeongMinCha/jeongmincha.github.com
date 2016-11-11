@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About JeongMinCha
+title: JEONGMIN CHA
 permalink: /about/
 ---
-
