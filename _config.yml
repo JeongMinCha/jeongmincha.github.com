@@ -18,3 +18,10 @@ redcarpet:
 
 permalink: pretty
 highlighter: false
+
+safe: true
+lsi: true
+
+gems:
+    - jekyll-redirect-form
+    - jemoji
