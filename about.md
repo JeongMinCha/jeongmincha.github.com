@@ -32,4 +32,11 @@ E-mail. cjm9236@hanyang.ac.kr
 **LG전자, 개발 인턴** <span style="float:right;">JUL 2016 - AUG 2016</span>  
 2013 년 하계 방학 기간 동안 LG 전자 서초 R&D 연구소에서 AOT 팀의 인턴으로 2 개월간 업무를 수행하였습니다.  
 
-
+### 기타 특기 사항
+국가우수장학금(이공계) 장학생 선발  
+CourseraCertificate­MachineLearning  
+KaggleCompetition 참여  
+어플리케이션 및 서버 아웃소싱 개발  
+인하대학교 기업가 센터 주관 슈퍼 챌린지 해커톤 과정에서 BestDeveloper 상 수상  
+아이디어 팩토리 주관 메이커톤 수료  
+삼성 소프트웨어 챌린지 캠프 5 기 참여  
