@@ -17,7 +17,19 @@ E-mail. cjm9236@hanyang.ac.kr
     - MajorGPA  4.17/4.50
 
 ### 연구 경험
-**데이터 마이닝 연구실 산학 프로젝트 수행**<span style="float:right;">DEC 2015 - MAY 2016</span>  
+**데이터 마이닝 연구실 산학 프로젝트 수행** <span style="float:right;">DEC 2015 - MAY 2016</span>  
 한양대학교 DAKE (데이터 및 지식 공학) 연구실에서 ‘신뢰 네트워크를 기반으로 평점 행렬을 채워나가는 Imputation 방법의 성능 검증 실험’을 주제로 산학 프로젝트를 수행하였고, 한양대학교 컴퓨터공학부 특성화사업단에 이 연구에 대한 지원을 받은 바 있습니다.  
-**추천 시스템을 주제로 졸업 논문 작성**<span style="float:right;">MAY 2016 - OCT 2016</span>  
+**추천 시스템을 주제로 졸업 논문 작성** <span style="float:right;">MAY 2016 - OCT 2016</span>  
 논문의 제목은 '신뢰 네트워크에서 직접 연결된 이웃들을 활용한 추천을 위한 대치 방법 (An Imputation MethodUsingDirectlyConnectedNeighborsinaTrustNetworkforRecommendation)' 입니다. 작성한 논문은 2015년 정보처리학회 추계학술발표대회에 제출하여 논문집에 수록되었습니다.  
+
+### 특별 경험
+**소프트웨어 마에스트로, 연수생** <span style="float:right;">JUL 2016 - JUN 2016</span>  
+미래창조과학부와 정보기술진흥센터에서 SW 우수 인재양성을 위해 마련한 프로그램인 SW 마에스트로 과정의 6 기 연수생으로 임명 받았고,1 년간 1 단계,2 단계 활동을 진행하였습니다.  
+**테크브릿지, 프로그래밍 강사** <span style="float:right;">JUN 2016 - CURRENT</span>  
+코딩 교육 기업 ‘테크브릿지’ 에서 안드로이드, 자바 프로그래밍 및 AP Computer Science 과목을 강의했습니다.  
+**소프트펍, 개발 인턴** <span style="float:right;">JUN 2016 - AUG 2016</span>  
+소프트펍은 문제집 전문 eBook 플랫폼인 풀자북스를 운용하는 회사로, 이 회사에서 학생들의 모의고사 성적 통계 처리 및 성적표 발행을 위한 파이썬 스크립트를 작성하는 업무를 맡았습니다.  
+**LG전자, 개발 인턴** <span style="float:right;">JUL 2016 - AUG 2016</span>  
+2013 년 하계 방학 기간 동안 LG 전자 서초 R&D 연구소에서 AOT 팀의 인턴으로 2 개월간 업무를 수행하였습니다.  
+
+
