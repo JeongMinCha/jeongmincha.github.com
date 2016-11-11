@@ -36,7 +36,7 @@ E-mail. cjm9236@hanyang.ac.kr
 국가우수장학금(이공계) 장학생 선발  
 CourseraCertificate­MachineLearning  
 KaggleCompetition 참여  
-어플리케이션 및 서버 아웃소싱 개발  
+어플리케이션 및 서버 아웃소싱 개발 - [키다리 은행](https://www.facebook.com/kidaribank)  
 인하대학교 기업가 센터 주관 슈퍼 챌린지 해커톤 과정에서 BestDeveloper 상 수상  
 아이디어 팩토리 주관 메이커톤 수료  
 삼성 소프트웨어 챌린지 캠프 5 기 참여  
