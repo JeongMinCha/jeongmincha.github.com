@@ -3,4 +3,4 @@ layout: post
 title: My Projects in GitHub
 ---
 
-- codility-lesson [GitHub](https://github.com/JeongMinCha/codility-lesson)
+- codility-lesson <a href="https://github.com/JeongMinCha/codility-lesson" target="_blank">[GitHub]</a>
