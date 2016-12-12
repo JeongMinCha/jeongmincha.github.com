@@ -4,11 +4,11 @@ title: Information
 permalink: /info/
 ---
 ### Channels & Social Media
-- [linkedin](https://www.linkedin.com/in/cjm9236)
-- [youtube](https://www.youtube.com/channel/UCstP5AX2725CDpOCLx6K8yA)
-    - My channel contains lecture videos which are already on [inflearn](www.inflearn.com).
-- [facebook](https://www.facebook.com/cjm9236)
-- [twitter](https://www.twitter.com/cjm9236)
+- <a href="https://www.linkedin.com/in/cjm9236" target="_blank">Linkedin</a>
+- <a href="https://www.youtube.com/channel/UCstP5AX2725CDpOCLx6K8yA" target="_blank">Youtube</a> 
+    - My channel contains lecture videos which are already on <a href="https://www.inflearn.com" target="_blank">Inflearn</a>.
+- <a href="https://www.facebook.com/cjm9236" target="_blank">Facebook</a>
+- <a href="https://www.twitter.com/cjm9236" target="_blank">Twitter</a>
 
 ### School
 - MS. School of Computing, KAIST
