@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: CV (KR)
+permalink: /cv-kor/
 ---
 H.P. +82 10-4854-2778  
 E-mail. cjm9236@hanyang.ac.kr
