@@ -11,3 +11,12 @@ E-mail. cjm9236@hanyang.ac.kr
 
 &nbsp;&nbsp;&nbsp;&nbsp;In codility, an user could see their codes at every moment and I thought the codes could be used as time-series data and apply them into machine learning algorithm. I also thought that this might discover how learners' thought would develop and what learning patterns they have. Thus, I decided to research ITS which can help learners learn programming by using data mining and machine learning algorithms in the graduate school in where I am.
 
+
+# Education
+- BS, Computer Science and Engineering
+    - Hanyang University, Seoul
+    - March 2012 - February 2017
+    - GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.06/4.50
+    - Major GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.17/4.50
+- MS, Computer Science
+    - KAIST
