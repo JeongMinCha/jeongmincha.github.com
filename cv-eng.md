@@ -42,3 +42,16 @@ I served as a developer intern at Softpub, a company running an e-book platform 
 
 **A developer intern, LG Electronics** <span style="float:right;">JUL 2016 - AUG 2016</span>  
 I served as a dveloper intern fot two months in LG Electronics Seo-cho R&D labortary in 2013.
+
+
+### Other special points
+- Took National Excellent Science and Engineering Scholarship of Korea
+- Took Coursera Certificate for Machine learning
+- Participated in competitions at Kaggle
+    - Santendar Customer Satisfaction
+    - San Francisco Crime Classification
+- Developed an outsourcing project - Kidari Bank
+    - Developed mobile applications and a server 
+- Received Best Developer award at Super Challenge Hackerthon course hosted by Inha University Entrepreneur Center
+- Completed Makerthon hosted by IdeaFactory at Seoul National University
+- Participated in the 5th Samsung Software Challenge Camp
