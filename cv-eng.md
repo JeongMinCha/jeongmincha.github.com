@@ -29,3 +29,16 @@ In data mining lab of Hanyang University, I performed an academic-industrial pro
 **Writing a graduation thesis on the theme of recommendation systems** <span style="float:right;">MAY 2016 - OCT 2016</span>  
 The title of the theis is 'An imputation Methoud Using Directly Connected Neighbors in a Trust Network for Recommendation'. The paper was submitted to the Fall Conference of the Information Processing Society of Korea in 2015 and included in the collection of papers.
 
+
+### Special Experiences
+**A Trainee in the SW Maestro course** <span style="float:right;">JUL 2016 - JUN 2016</span>  
+I was appointed as the 6th trainee of the SW Maestro course, a program that was set up by the future creation science department and information technology promotion center to clutivate SW excellent talent. I performed activities in the course for one year.
+
+**A programming instructor in Techbridge** <span style="float:right;">JUN 2016 - DEC 2016</span>  
+I taught Android, Java programming and AP Computer Science courses at Techbridge, a coding education company.
+
+**A developer intern, Softpub** <span style="float:right;">JUN 2016 - AUG 2016</span>  
+I served as a developer intern at Softpub, a company running an e-book platform called PoolzaBooks. In this company, I wrote python scripts to process student statistical statistics and issue transcripts.
+
+**A developer intern, LG Electronics** <span style="float:right;">JUL 2016 - AUG 2016</span>  
+I served as a dveloper intern fot two months in LG Electronics Seo-cho R&D labortary in 2013.
