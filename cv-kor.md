@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV (KR)
+title: CV (Korean)
 permalink: /cv-kor/
 ---
 H.P. +82 10-4854-2778  

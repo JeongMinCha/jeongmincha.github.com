@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV (EN)
+title: CV (English)
 permalink: /cv-eng/
 ---
 H.P. +82 10-4854-2778  
