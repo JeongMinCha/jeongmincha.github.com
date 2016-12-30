@@ -17,6 +17,8 @@ E-mail. cjm9236@hanyang.ac.kr
     - 2012년 3월 - 2017년 2월 (졸업 예정)
     - GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.06/4.50
     - MajorGPA&nbsp;&nbsp;&nbsp;4.17/4.50
+- 석사, 전산학부
+    - 카이스트, 한국 과학 기술원
 
 
 ### 연구 경험
