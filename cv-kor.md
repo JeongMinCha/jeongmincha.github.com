@@ -15,8 +15,8 @@ E-mail. jeongmin.cha@kaist.ac.kr
 - 학사, 공과대학 컴퓨터 전공
     - 한양대학교, 서울
     - 2012년 3월 - 2017년 2월 (졸업 예정)
-    - GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.06/4.50
-    - MajorGPA&nbsp;&nbsp;&nbsp;4.17/4.50
+    - GPA            4.08/4.50
+    - MajorGPA   4.18/4.50
 - 석사, 전산학부
     - 카이스트, 한국 과학 기술원
 

@@ -16,8 +16,8 @@ E-mail. jeongmin.cha@kaist.ac.kr
 - BS, Computer Science and Engineering
     - Hanyang University, Seoul
     - March 2012 - February 2017
-    - GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.06/4.50
-    - Major GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.17/4.50
+    - GPA                4.08/4.50
+    - Major GPA      4.18/4.50
 - MS, Computer Science
     - KAIST
 
