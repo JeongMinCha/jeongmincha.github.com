@@ -30,6 +30,9 @@ E-mail. jeongmin.cha@kaist.ac.kr
 
 
 ### 특별 경험
+**인프런, 프로그래밍 강사** <span style="float:right;">DEC 2016 - Present</span>  
+프로그래밍 온라인 강좌 사이트 '인프런'에서 타입스크립트 기본과 아이오닉 2 프레임워크를 이용한 앱 개발 강좌를 진행하였습니다.
+
 **테크브릿지, 프로그래밍 강사** <span style="float:right;">JUN 2016 - CURRENT</span>  
 코딩  교육  기업  ‘테크브릿지’  에서  안드로이드,  자바  프로그래밍  및  AP  Computer  Science  과목을  강의했습니다.   
 
