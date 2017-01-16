@@ -30,6 +30,9 @@ E-mail. jeongmin.cha@kaist.ac.kr
 
 
 ### 특별 경험
+**엘리스, 연구 및 개발 인턴** <span style="float: right;">JAN 2016 - Present</span>  
+코딩 교육 플랫폼 '엘리스'에서 연구 및 모바일 개발 프로젝트에 참여하여 인턴하고 있습니다.
+
 **인프런, 프로그래밍 강사** <span style="float:right;">DEC 2016 - Present</span>  
 프로그래밍 온라인 강좌 사이트 '인프런'에서 타입스크립트 기본과 아이오닉 2 프레임워크를 이용한 앱 개발 강좌를 진행하였습니다.
 
