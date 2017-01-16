@@ -31,22 +31,22 @@ E-mail. jeongmin.cha@kaist.ac.kr
 
 ### 특별 경험
 **엘리스, 연구 및 개발 인턴** <span style="float: right;">JAN 2016 - Present</span>  
-코딩 교육 플랫폼 '엘리스'에서 연구 및 모바일 개발 프로젝트에 참여하여 인턴하고 있습니다.
+코딩 교육 플랫폼 '<a href="https://www.elice.io" target="_blank">엘리스</a>'에서 연구 및 모바일 개발 프로젝트에 참여하여 인턴하고 있습니다.
 
 **인프런, 프로그래밍 강사** <span style="float:right;">DEC 2016 - Present</span>  
-프로그래밍 온라인 강좌 사이트 '인프런'에서 타입스크립트 기본과 아이오닉 2 프레임워크를 이용한 앱 개발 강좌를 진행하였습니다.
+프로그래밍 온라인 강좌 사이트 '<a href="https://www.inflearn.com" target="_blank">인프런</a>'에서 타입스크립트 기본과 아이오닉 2 프레임워크를 이용한 앱 개발 강좌를 진행하였습니다.
 
 **테크브릿지, 프로그래밍 강사** <span style="float:right;">JUN 2016 - DEC 2016</span>  
-코딩  교육  기업  ‘테크브릿지’  에서  안드로이드,  자바  프로그래밍  및  AP  Computer  Science  과목을  강의했습니다.   
+코딩  교육  기업  ‘<a href="http://www.techbridge.co.kr" target="_blank">테크브릿지</a>’  에서  안드로이드,  자바  프로그래밍  및  AP  Computer  Science  과목을  강의했습니다.   
 
 **소프트펍, 개발 인턴** <span style="float:right;">JUN 2016 - AUG 2016</span>  
-소프트펍은  문제집  전문  eBook 플랫폼인  풀자북스를  운용하는  회사로,  이  회사에서  학생들의  모의고사  성적  통계  처리  및  성적표  발행을  위한  파이썬  스크립트를  작성하는  업무를  맡았습니다.   
+소프트펍은  문제집  전문  eBook 플랫폼인  <a href="http://www.poolzabooks.com" target="_blank">풀자 북스</a>를  운용하는  회사로,  이  회사에서  학생들의  모의고사  성적  통계  처리  및  성적표  발행을  위한  파이썬  스크립트를  작성하는  업무를  맡았습니다.   
 
 **소프트웨어 마에스트로, 연수생** <span style="float:right;">JUL 2015 - JUN 2016</span>  
-미래창조과학부와  정보기술진흥센터에서  SW  우수  인재양성을  위해  마련한  프로그램인  SW  마에스트로  과정의  6 기  연수생으로  임명  받았고, 1 년간  1 단계, 2 단계  활동을  진행하였습니다.   
+미래창조과학부와  정보기술진흥센터에서  SW  우수  인재양성을  위해  마련한  프로그램인  <a href="http://swmaestro.kr/" target="_blank">SW 마에스트로 과정</a>의  6 기  연수생으로  임명  받았고, 1 년간  1 단계, 2 단계  활동을  진행하였습니다.   
 
 **LG전자, 개발 인턴** <span style="float:right;">JUL 2013 - AUG 2013</span>  
-2013 년  하계  방학  기간  동안  LG 전자  서초  R&D  연구소에서  AOT 팀의  인턴으로  2 개월간  업무를  수행하였습니다.   
+2013 년  하계  방학  기간  동안  <a href="https://www.lge.co.kr/" target="_blank">LG 전자</a> 서초  R&D  연구소에서  AOT 팀의  인턴으로  2 개월간  업무를  수행하였습니다.   
 
 
 ### 기타 특기 사항
