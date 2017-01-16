@@ -56,7 +56,7 @@ E-mail. jeongmin.cha@kaist.ac.kr
     - [Santander Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction) 
     - [San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime)
 - 어플리케이션  및  서버  아웃소싱  개발  - [키다리 은행](https://www.facebook.com/kidaribank)  
-- TEDxHanyangU  6기 웹 개발자로 활동
-- 인하대학교  기업가  센터  주관  슈퍼  챌린지  해커톤  과정에서  Best Developer  상  수상  
-- 아이디어  팩토리  주관  메이커톤  수료   
-- 삼성  소프트웨어  챌린지  캠프  5 기  참여   
+- TEDxHanyangU  6기 웹 개발자로 활동 (2014)
+- 인하대학교  기업가  센터  주관  슈퍼  챌린지  해커톤  과정에서  Best Developer  상  수상 (2015)
+- 아이디어  팩토리  주관  메이커톤  수료  (2016)
+- 삼성  소프트웨어  챌린지  캠프  5 기  참여 (2013)
