@@ -18,7 +18,7 @@ E-mail. jeongmin.cha@kaist.ac.kr
     - March 2012 - February 2017
     - GPA                4.08/4.50
     - Major GPA      4.18/4.50
-- MS, Computer Science
+- MS, School of Computing
     - KAIST
 
 
