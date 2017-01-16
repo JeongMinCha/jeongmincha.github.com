@@ -58,6 +58,7 @@ I served as a dveloper intern fot two months in LG Electronics Seo-cho R&D labor
     - San Francisco Crime Classification
 - Developed an outsourcing project - Kidari Bank
     - Developed mobile applications and a server 
+- Operated as an web developer in TEDxHanyangU
 - Received Best Developer award at Super Challenge Hackerthon course hosted by Inha University Entrepreneur Center
 - Completed Makerthon hosted by IdeaFactory at Seoul National University
 - Participated in the 5th Samsung Software Challenge Camp
