@@ -31,8 +31,11 @@ The title of the theis is 'An imputation Methoud Using Directly Connected Neighb
 
 
 ### Special Experiences
+**research lab intern, elice** <span style="float:right;">JAN 2017 - Present</span>  
+I am working on research and mobile project in elice as an intern.
+
 **A programming instructor, Inflearn** <span style="float:right;">DEC 2016 - Present</span>  
-I taught basics of Typescript and mobile application development by Ionic 2 framework at Inflearn.
+I have been teaching basics of Typescript and mobile application development by Ionic 2 framework at Inflearn.
 
 **A programming instructor, Techbridge** <span style="float:right;">JUN 2016 - DEC 2016</span>  
 I taught Android, Java programming and AP Computer Science courses at Techbridge, a coding education company.
