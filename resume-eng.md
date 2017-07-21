@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV (English)
-permalink: /cv-eng/
+title: Resume (English)
+permalink: /resume-eng/
 ---
 H.P. +82 10-4854-2778  
 E-mail. jeongmin.cha@kaist.ac.kr
