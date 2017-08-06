@@ -181,10 +181,15 @@ a:visited { color: #205caa; }
   margin-top: 5px;
 }
 
-.post-content { margin: 0 0 30px; }
+.post-content { margin: 0 0 30px; max-width: 750px; }
 
 .post-content > * { margin: 20px 0; }
 
+.post-content img {
+  width: 100%;
+  min-width: 400px;
+  max-width: 750px;
+}
 
 .post-content h1,
 .post-content h2,
