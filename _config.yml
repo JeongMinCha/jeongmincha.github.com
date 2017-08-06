@@ -8,14 +8,13 @@ facebook_username: cjm9236
 
 description: ""
 baseurl: ""
-url: "http://yourdomain.com"
+url: ""
 
 # Build settings
-#markdown: redcarpet
-#redcarpet:
-#    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolin", \
-#    "strikethrough", "superscript", "with_toc_data", "tables"]
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+# markdown: kramdown
 
 permalink: pretty
 highlighter: false
