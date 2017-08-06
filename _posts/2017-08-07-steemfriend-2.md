@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 스팀잇에서 누가 나랑 가장 친할까? 👪 steemfriend 개발일지 #2
+title: 스팀잇에서 누가 나랑 가장 친할까? 👪  steemfriend 개발일지 -2-
 ---
 
 ![](https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/DQmXYoCFPhnX2etF7xu25i3gZw6ipocDrYuBoy4nBDqgseA/unnamed.jpg)
@@ -61,9 +61,9 @@ title: 스팀잇에서 누가 나랑 가장 친할까? 👪 steemfriend 개발�
 뭐 어쨌든 문제 없이 데이터 핸들링에 대한 첫 버전은 마무리가 되었고, 이제 이걸 클라이언트에서 이쁘게 잘 보여주도록 할 일만 남았네요. 이것도 최대한 단순한 디자인으로 깔끔하게 보여주는 형태로 금방 만들어보도록 하겠습니다. 첫 버전은 정말 딱 단순한 기능만 하는 형태로 만들어지겠죠? 다시 월요일이 다가오는 만큼 빠르게 마무리할 수 있을지는 모르겠습니다...ㅠㅠ 다들 힘내서 월요일을 맞아봅시다 👍
 
 - 스팀잇에서 누가 나랑 가장 친할까? 👪 steemfriend 개발일지 #1  
-  https://steemit.com/kr/@jeongmincha/steemfriend-1  
+  [https://steemit.com/kr/@jeongmincha/steemfriend-1](https://steemit.com/kr/@jeongmincha/steemfriend-1)
 - 스팀잇에서 누가 나랑 가장 친할까? 👪 steemfriend 개발시작? 🚀  
-  https://steemit.com/kr/@jeongmincha/steemfriend  
+  [https://steemit.com/kr/@jeongmincha/steemfriend](https://steemit.com/kr/@jeongmincha/steemfriend)
 
 
 ![](https://img1.steemit.com/480x0/https://steemitimages.com/DQmUdNLJKzrFrZNgsc1c5UkZWHkTwPZj8KXApQcs6deGDK5/follow%20image-min.png)
