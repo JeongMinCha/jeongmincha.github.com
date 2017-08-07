@@ -3,6 +3,8 @@ layout: post
 title: 스팀잇에서 누가 나랑 가장 친할까? 👪  steemfriend 개발일지 -2-
 ---
 
+원본 글 링크: [https://steemit.com/kr/@jeongmincha/steemfriend-2](https://steemit.com/kr/@jeongmincha/steemfriend-2)
+
 ![](https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/DQmXYoCFPhnX2etF7xu25i3gZw6ipocDrYuBoy4nBDqgseA/unnamed.jpg)
 
 우선 오늘은 어제 있었던 일들에 대해서는 어느 정도 해결이 된 듯 합니다.

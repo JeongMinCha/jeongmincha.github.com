@@ -2,6 +2,7 @@
 layout: post
 title: Idiom of the Day/ The cream of the crop. 무슨 뜻일까요?
 ---
+원본 링크: [https://steemit.com/kr/@jeongmincha/idiom-of-the-day-the-cream-of-the-crop](https://steemit.com/kr/@jeongmincha/idiom-of-the-day-the-cream-of-the-crop)
 
 ![](https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/0x0/https://steemitimages.com/DQmXuu2Skv5DF1W5ePrmQ9caKHKDyN6xC4XjddHqKcknbgy/Idiom%20of%20the%20day-min.png)
 
