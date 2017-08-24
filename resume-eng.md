@@ -22,7 +22,7 @@ E-mail. jeongmin.cha@kaist.ac.kr
         - Major GPA 4.18 / 4.50
 
 
-## Skills
+### Skills
 - Data Science
     - Tensorflow, Keras
 - Frontend
