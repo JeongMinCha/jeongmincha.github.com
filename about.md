@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Information
-permalink: /info/
+[comment]: permalink: /info/
 ---
 ### Channels & Social Media
 - <a href="https://www.linkedin.com/in/cjm9236" target="_blank">Linkedin</a>
