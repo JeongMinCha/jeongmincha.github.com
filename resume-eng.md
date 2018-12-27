@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume (English)
+title: Resume
 permalink: /resume-eng/
 ---
 H.P. +82 10-4854-2778  

@@ -1,10 +1,7 @@
 # Site settings
-title: jeongmin.cha
+title: Jeongmin Cha 
 email: jeongmin.cha@kaist.ac.kr
-
-twitter_username: cjm9236
-github_username: JeongMinCha
-facebook_username: cjm9236
+github_username: jeongmincha 
 
 description: ""
 baseurl: ""
