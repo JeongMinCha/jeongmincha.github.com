@@ -186,7 +186,6 @@ a:visited { color: #205caa; }
 .post-content > * { margin: 20px 0; }
 
 .post-content img {
-  min-width: 400px;
   max-width: 750px;
 }
 

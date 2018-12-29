@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects(EN)
-permalink: /projects/en/
+[comment]: permalink: /projects/en/
 ---
 1. 블록체인 소셜 플랫폼 steemit 친구를 찾아주는 stemfriend 개발 (2017.07 ~ 2017.07)
 2. 키다리 은행 클라이언트 및 서버 개발 (2016.06 ~ 2016.12)

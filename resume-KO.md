@@ -3,60 +3,80 @@ layout: page
 title: Resume(KO)
 permalink: /resume/ko/
 ---
-H.P. +82 10-4854-2778  
-E-mail. jeongmin.cha@kaist.ac.kr
 
-### 관심 분야
-&nbsp;&nbsp;&nbsp;&nbsp;제  희망  연구  분야는  교육  데이터  마이닝,  기계학습,  그리고  ITS(Intelligent  Tutoring  System)  입니다.  데이터  마이닝  연구실에서  산학  프로젝트를  수행하고,  졸업  논문을  작성하면서  데이터  마이닝과  기계  학습에  대해  많은  관심을  가지게  되었습니다.  그리고,  프로그래밍  강사로  근로를  하게  되면서  소프트웨어  교육에  관심을  가지게  되고,  자연스럽게  교육  데이터에  대한  데이터  마이닝과  기계학습에  관심을  가졌습니다.    교육  데이터  마이닝의  세부  분야  중  하나인  ITS  연구에  대한  관심을  가지게  된  것은  알고리즘  문제  사이트인  Codility 를  접하게  되면서부터  였습니다.  
+<img src="/images/icons8-email-52.png" width="16" height="16"/>  jeongmin.cha@kaist.ac.kr  
+<img src="/images/icons8-cell-phone-52.png" width="16" height="16"/>  010-4854-2778  
+<img src="/images/icons8-linkedin-52.png" width="16" height="16"/>  linkedin.com/cjm9236  
 
-&nbsp;&nbsp;&nbsp;&nbsp;이  사이트에서는  학습자가  매순간  작성했던  코드를  보여  주는데,  각  순간의  코드들이  시계열  데이터로  활용되어  기계학습  알고리즘을  적용할  수  있을  것이라고  생각했습니다.  이를  통해,  학습자의  생각이  어떻게  발전해  나가고,  어떤  학습  패턴을  지니는지  알아낼  수  있을  것이라고  생각했습니다.  따라서,  대학원에  진학한  후에는  프로그래밍  학습  사이트에서  데이터  마이닝  및  기계학습  알고리즘을  적용하여  학습자의  프로그래밍  학습을  도울  수  있는  ITS 을  고안해내는  연구를  하고  싶습니다. 
+<hr/>
+<center> 데이터 엔지니어 </center>
+<hr/>
+- 프로젝트 및 대학교/대학원 연구실에서 2년간 연구 경험
+- 빅데이터를 다루는 알고리즘의 시간 복잡도를 향상시켜 추천 시스템을 구축했던 경험
+- 회사 및 사이드 프로젝트에서 여러 가지 프레임워크를 활용하여 풀스택 개발했던 경험
+- 문서화를 생활화하고, 코드 작성시 모듈화, 무결성 및 재사용성을 매우 중요시 함
 
-### 교육
-- 학사, 공과대학 컴퓨터 전공
-    - 한양대학교, 서울
-    - 2012년 3월 - 2017년 2월 (졸업 예정)
-    - GPA            4.08/4.50
-    - MajorGPA   4.18/4.50
-- 석사, 전산학부
-    - 카이스트, 한국 과학 기술원
+<hr/>
+<center> 경력 </center>
+<hr/>
+**HYPERITHM** (암호화폐 헤지 펀드 자산 운용 회사)  
+**퀀트 애널리스트 및 개발자**, 2018.03 - PRESENT
+- 기술적 지표를 이용하는 자동 거래 알고리즘을 개발하였으며, 60% 이상의 승률을 가진 알고리즘을 개발
+- 사람이 쉽게 읽고 쓸 수 있는 알고리즘 스크립트를 구동할 수 있고, 동시에 다양한 거래 알고리즘을 비동기적으로 구동할 수 있는 트레이딩 프레임워크를 개발
+- Python 데이터 및 시각화 라이브러리를 이용하여 개발된 거래 알고리즘의 효용성 검증
+- 여러 거래 봇에서 공통적으로 사용되는 모듈을 만들고, 자동 테스트 환경 도입
 
+**elice** (프로그래밍 교육 서비스 회사)  
+**연구 및 개발 인턴**, 2017.01 - 2017.04
+- 모바일 앱 네이게이션과 사용성에 대한 로직 설계 / React Native 기반으로 모바일 앱 개발
 
-### 연구 경험
-**데이터 마이닝 연구실 산학 프로젝트 수행** <span style="float:right;">DEC 2015 - MAY 2016</span>  
-한양대학교  DAKE  (데이터  및  지식  공학)  연구실에서  ‘신뢰  네트워크를  기반으로  평점  행렬을  채워나가는  Imputation  방법의  성능  검증  실험’을  주제로  산학  프로젝트를  수행하였고,  한양대학교  컴퓨터공학부  특성화사업단에  이  연구에  대한  지원을  받은  바  있습니다.   
+**Softpub** (eBook 문제집 서비스 회사)  
+**개발 인턴**, 2016.07 - 2016.08
+- 학생들의 모의고사 시험 결과를 기반으로 성적표를 만들어주는 Python 스크립트 개발
 
-**추천 시스템을 주제로 졸업 논문 작성** <span style="float:right;">MAY 2016 - OCT 2016</span>  
-논문의  제목은  '신뢰  네트워크에서  직접  연결된  이웃들을  활용한  추천을  위한  대치  방법  (An  Imputation  Method Using Directly Connected Neighbors in a Trust Network for Recommendation)'  입니다.  작성한  논문은  2015년  정보처리학회  추계학술발표대회에  제출하여  논문집에  수록되었습니다.   
+**LG 전자** (서초 R&D 연구 센터)  
+**개발 인턴**, 2013.07 - 2013.08
+- 스마트 TV에서 사용되는 Web OS의 오픈소스 버전인 Open Web OS의 가이드라인 작성
 
+<hr/>
+<center> 연구 경험 </center>
+<hr/>
+**Elicast: Embedding Interactive Exercises in Instructional Programming Screencasts (L@S 2018)**  
+2017.09 - 2017.12  
 
-### 특별 경험
-**엘리스, 연구 및 개발 인턴** <span style="float: right;">JAN 2016 - Present</span>  
-코딩 교육 플랫폼 '<a href="https://www.elice.io" target="_blank">엘리스</a>'에서 연구 및 모바일 개발 프로젝트에 참여하여 인턴하고 있습니다.
+- 논문에서 제안하는 교육 플랫폼의 효용성을 검증하기 위해 실험을 설계하였고, 학생들의 설문 결과를 종합하여 분석하여 논문 작성
 
-**인프런, 프로그래밍 강사** <span style="float:right;">DEC 2016 - Present</span>  
-프로그래밍 온라인 강좌 사이트 '<a href="https://www.inflearn.com" target="_blank">인프런</a>'에서 타입스크립트 기본과 아이오닉 2 프레임워크를 이용한 앱 개발 강좌를 진행하였습니다.
+**An industrial-educational Project at DAKE Lab (Data Mining Lab)**  
+2015.01 - 2015.10  
+- 신뢰네트워크 기반 추천 시스템 개발. 텍스트 형태로 약 500GB 에 해당하는 신뢰 네트워크 데이터를 사용하여 실험을 수행하고, 시간 복잡도 향상시켜본 경험
+- 해당 알고리즘을 기반으로 졸업 논문 작성 (논문명: An Imputation Method Using Directly Connected Neighbors in a Trust Network for Recommendation)
 
-**테크브릿지, 프로그래밍 강사** <span style="float:right;">JUN 2016 - DEC 2016</span>  
-코딩  교육  기업  ‘<a href="http://www.techbridge.co.kr" target="_blank">테크브릿지</a>’  에서  안드로이드,  자바  프로그래밍  및  AP  Computer  Science  과목을  강의했습니다.   
+<hr/>
+<center> Education </center>
+<hr/>
+- **KAIST**  석사, **전산학부**  2017.03 - PRESENT
+- **한양대학교** 학사, **컴퓨터전공** 2012.03 - 2017.02
+  - 전공 학점 4.18 / 4.50
+  - 총 학점 4.08 / 4.50
 
-**소프트펍, 개발 인턴** <span style="float:right;">JUN 2016 - AUG 2016</span>  
-소프트펍은  문제집  전문  eBook 플랫폼인  <a href="http://www.poolzabooks.com" target="_blank">풀자 북스</a>를  운용하는  회사로,  이  회사에서  학생들의  모의고사  성적  통계  처리  및  성적표  발행을  위한  파이썬  스크립트를  작성하는  업무를  맡았습니다.   
+<hr/>
+<center> 기술 </center>
+<hr/>
 
-**소프트웨어 마에스트로, 연수생** <span style="float:right;">JUL 2015 - JUN 2016</span>  
-미래창조과학부와  정보기술진흥센터에서  SW  우수  인재양성을  위해  마련한  프로그램인  <a href="http://swmaestro.kr/" target="_blank">SW 마에스트로 과정</a>의  6 기  연수생으로  임명  받았고, 1 년간  1 단계, 2 단계  활동을  진행하였습니다.   
+- Vim을 사용하고 Linux 환경에 익숙함
+- 주력 언어: Python, Javascript (Typescript)
+- 사용 프레임워크: Django, Flask, Ionic, React Native, Android, iOS (Swift)
 
-**LG전자, 개발 인턴** <span style="float:right;">JUL 2013 - AUG 2013</span>  
-2013 년  하계  방학  기간  동안  <a href="https://www.lge.co.kr/" target="_blank">LG 전자</a> 서초  R&D  연구소에서  AOT 팀의  인턴으로  2 개월간  업무를  수행하였습니다.   
+※ 사용하는데 능숙한 순서대로 기재
 
+<hr/>
+<center> 추가 사항 </center>
+<hr/>
 
-### 기타 특기 사항
-- 국가우수장학금(이공계) 장학생 선발    
-- Coursera Certificate for [Machine Learning](https://www.coursera.org/learn/machine-learning/home)  
-- Kaggle Competition  참여 
-    - [Santander Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction) 
-    - [San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime)
-- 어플리케이션  및  서버  아웃소싱  개발  - [키다리 은행](https://www.facebook.com/kidaribank)  
-- TEDxHanyangU  6기 웹 개발자로 활동 (2014)
-- 인하대학교  기업가  센터  주관  슈퍼  챌린지  해커톤  과정에서  Best Developer  상  수상 (2015)
-- 아이디어  팩토리  주관  메이커톤  수료  (2016)
-- 삼성  소프트웨어  챌린지  캠프  5 기  참여 (2013)
+- 진행했던 프로젝트 기술서: <a href="/projects/ko/">https://jeongmincha.github.io/projects/ko/</a>
+- 카이스트 자료구조 (cs206b) 수업 조교 
+- 약 1년 정도의 온/오프라인 프로그래밍 강사 경험 (2016.03 - 2017.03)
+- 네이버 D2 스타트업 팩토리에서 카이스트 캠퍼스 파트너로 활동 (2017.09 – 2018.04)
+- 국가 이공계 장학생 선정
+- 소프트웨어 마에스트로 프로그램 6기 연수 (2015.07 – 2016.06)
+- TEDxHangyangU 웹 개발자 활동 (2014)

@@ -4,9 +4,9 @@ title: Resume(EN)
 permalink: /resume/en/
 ---
 
-E: jeongmin.cha@kaist.ac.kr  
-P: 010-4854-2778 (South Korea)  
-L: linkedin.com/cjm9236  
+<img src="/images/icons8-email-52.png" width="16" height="16"/>  jeongmin.cha@kaist.ac.kr  
+<img src="/images/icons8-cell-phone-52.png" width="16" height="16"/>  010-4854-2778 (South Korea)  
+<img src="/images/icons8-linkedin-52.png" width="16" height="16"/>  linkedin.com/cjm9236  
 
 <hr/>
 <center> DATA ENGINEER </center>
