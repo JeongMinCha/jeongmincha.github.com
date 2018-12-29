@@ -229,6 +229,19 @@ a:visited { color: #205caa; }
 .post-content ul,
 .post-content ol { padding-left: 20px; }
 
+.post-content table {
+  border-top: 2px solid black; 
+  border-collapse: collapse;
+}
+
+.post-content th {
+  border: 1px solid black;
+}
+
+.post-cotent table, td {
+  border: 1px solid black;
+}
+
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
