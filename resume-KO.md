@@ -4,6 +4,9 @@ title: Resume(KO)
 permalink: /resume/ko/
 ---
 
+<div style="text-align: right"><a href="/assets/resume-KO.pdf">PDF 다운로드</a></div>
+
+
 <img src="/images/icons8-email-52.png" width="16" height="16"/>  jeongmin.cha@kaist.ac.kr  
 <img src="/images/icons8-cell-phone-52.png" width="16" height="16"/>  010-4854-2778  
 <img src="/images/icons8-linkedin-52.png" width="16" height="16"/>  linkedin.com/cjm9236  
