@@ -78,5 +78,6 @@ permalink: /resume/en/
 - around 1 year of experience in teaching programming online and offline (2016.03 - 2017.03)
 - Campus Partner of KAIST at Naver D2 Startup Factory (2017.09 - 2018.04)
 - National Science and Engineering Scholarship.
+- Coursera Machine Learning Certificate
 - 6th trainee in Software Maestro Program supported Korea Ministry of Science and ICT. (2015.07 - 2016.06)
 - TEDxHanyangU Web Developer (2014)
