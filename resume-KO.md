@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume (Korean)
-[comment]: permalink: /resume-kor/
+title: Resume(KO)
+permalink: /resume/ko/
 ---
 H.P. +82 10-4854-2778  
 E-mail. jeongmin.cha@kaist.ac.kr

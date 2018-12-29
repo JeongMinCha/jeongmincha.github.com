@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/eng/
+title: Resume(EN)
+permalink: /resume/en/
 ---
 
 E: jeongmin.cha@kaist.ac.kr  
