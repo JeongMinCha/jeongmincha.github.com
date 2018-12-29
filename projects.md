@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-[comment]: permalink: /projects/
+permalink: /projects/
 ---
 
 ## 프로젝트 요약
@@ -13,4 +13,4 @@ title: Projects
 6. 안드로이드 폰을 활용한 방범 시스템 개발 (2014.09 ~ 2014.12)
 7. OpenWrt 공유기를 활용한 통합 공유 파일 시스템 개발 (2014.03 ~ 2014.06)
 
-<hr/>
+![프로젝트 기술서](./assets/projects.pdf)
