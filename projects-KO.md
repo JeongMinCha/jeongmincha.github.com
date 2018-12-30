@@ -5,6 +5,15 @@ permalink: /projects/ko/
 ---
 
 <hr/>
+<center>요약</center>
+<hr/>
+- 회사에서 했던 프로젝트 업무들은 시각 자료 및 코드 첨부가 어려워 이곳에서는 작성하지 않고, 경력서 (Resume) 에 간단 서술해두었습니다.
+- 6개의 연구 프로젝트
+  - 5개는 대학원에서, 1개는 대학교 연구실에서 진행하였습니다. 모든 연구 프로젝트는 팀 프로젝트였습니다.
+- 6개의 개발 프로젝트
+  - 2개의 개인 프로젝트 (이 중 1개는 외주 프로젝트), 4개의 팀 프로젝트를 진행하였습니다.
+
+<hr/>
 <center>연구 프로젝트 포트폴리오</center>
 <hr/>
 1. **Elicast: Embedding Interactive Exercises in Instructional Programming Screencasts** (L@S 2018)
@@ -24,8 +33,12 @@ permalink: /projects/ko/
   - [Codes at GitHub](https://github.com/jeongmincha/Advanced-Phased-LSTM/tree/master/VariablePhasedLSTM)
 1. **Best Phrases for Successful Crowdfunding Projects** (2017.03 - 2017.06)
   - ![](/assets/projects/research/crowdfunding/capture.png)
-1. [**협업 필터링 추천 시스템 성능 향상 연구를 주제로 한 산학 프로젝트**](research/2015/01/01/recomendation-system/) (2015.01 ~ 2015.10)
+1. [**An Imputation Method Using Directly Connected Neighbors in a Trust Network for Recommendation**](research/2015/01/01/recomendation-system/) (2015.01 ~ 2015.10)
+  - <img src="/assets/projects/research/recommender-system/capture1.png" width="320" />
+  - <img src="/assets/projects/research/recommender-system/result1.png" width="320" /> | <img src="/assets/projects/research/recommender-system/result2.png" width="320" /> | <img src="/assets/projects/research/recommender-system/result3.png" width="320" /> |
   - [Codes at GitHub](https://github.com/jeongmincha/Trust-based-Imputation)
+  - [Paper](/assets/projects/research/recommender-system/recommender-system-paper.pdf) (3 pages)
+  - [Report](/assets/projects/research/recommender-system/recommender-system-report.pdf) (21 pages)
 
 <hr/>
 <center>개발 프로젝트 포트폴리오</center>
