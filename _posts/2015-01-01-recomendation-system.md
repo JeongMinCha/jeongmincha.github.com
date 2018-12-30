@@ -5,8 +5,8 @@ categories: [projects, ko, research]
 tag: [research, data, mining, collaborative, filtering, bigdata, big, data]
 ---
 
-- [프로젝트 보고서](/assets/projects/research/recommender-system-report.pdf)
-- [논문](/assets/projects/research/recommender-system-paper.pdf)
+- [프로젝트 보고서](/assets/projects/research/recommender-system/recommender-system-report.pdf) (21 pages)
+- [논문](/assets/projects/research/recommender-system/recommender-system-paper.pdf) (3 pages)
 - 참여기간
   - 2015.01 ~ 2015.10 
 - 프로젝트 개요
