@@ -1,11 +1,11 @@
 ---
 layout: post
-title: steemfriend
+title: 블록체인 소셜 플랫폼 steemit 친구를 찾아주는 stemfriend
 categories: [projects, ko, development]
 tag: [development, projects, blockchain, python, django, korean]
 ---
 
-## 블록체인 소셜 플랫폼 steemit 친구를 찾아주는 stemfriend
+![](/assets/projects/development/steemfriend/img.jpeg)
 - 참여기간
   - 2017.07 - 2017.07
 - 프로젝트 개요 
@@ -40,8 +40,3 @@ Django 프레임워크를 이용하여 블록체인 데이터를 가져와 분�
 - <https://steemit.com/kr/@jeongmincha/steemfriend-1>
 - <https://steemit.com/kr/@jeongmincha/steemfriend-2>
 - <https://steemit.com/kr/@jeongmincha/steemfriend-3>
-
-<hr/>
-<center>참고 시각 자료</center>
-<hr/>
-![](/assets/projects/development/steemfriend/img.jpeg)

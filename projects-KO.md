@@ -19,7 +19,7 @@ permalink: /projects/ko/
 1. **Phased LSTM with modified time gate function** (2017.03 - 2017.06)
   - [Codes at GitHub](https://github.com/jeongmincha/Advanced-Phased-LSTM)
 1. **Best Phrases for Successful Crowdfunding Projects** (2017.03 - 2017.06)
-1. **협업 필터링 추천 시스템 성능 향상 연구를 주제로 한 산학 프로젝트** (2015.01 ~ 2015.10)
+1. [**협업 필터링 추천 시스템 성능 향상 연구를 주제로 한 산학 프로젝트**](research/2015/01/01/recomendation-system/) (2015.01 ~ 2015.10)
   - [Codes at GitHub](https://github.com/jeongmincha/Trust-based-Imputation)
 
 <hr/>
@@ -28,7 +28,7 @@ permalink: /projects/ko/
 1. [**블록체인 소셜 플랫폼 steemit 친구를 찾아주는 stemfriend**](development/2017/07/01/steemfriend/) (2017.07 ~ 2017.07)
   - Python Django
   - [Codes at GitHub](https://github.com/jeongmincha/steemfriend)
-1. **키다리 은행 클라이언트 및 서버 개발** (2016.05 ~ 2016.12)
+1. [**키다리 은행 클라이언트 및 서버 개발**](development/2016/06/01/kidaribank/) (2016.05 ~ 2016.12)
   - API Server: Python Flask
   - Front-end (App): Ionic 2 (Typescript)
   - [Flask API Server Codes at GitHub](https://github.com/jeongmincha/KidariBankFlaskAPIServer)
