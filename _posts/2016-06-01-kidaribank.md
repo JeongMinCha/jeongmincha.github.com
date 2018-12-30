@@ -13,7 +13,8 @@ tag: [development, projects, full, stack, python, flask, api, ionic, mobile, app
 <hr/>
 <center>주요 역할 및 담당</center>
 <hr/>
-아이오닉 프레임워크를 이용하여 키다리 은행 클라이언트 앱을 개발하고, 앱 구동을 위한 API 서버, 그리고 관리자 페이지 등을 만듬. (총 1명 중 1명)
+- 혼자서 외주를 수주받아 진행하였음.
+- 아이오닉 프레임워크를 이용하여 1) 키다리 은행 프론트엔드 앱을 개발하고, 2) 앱 구동을 위한 API 서버, 그리고 3) 관리자 페이지 를 구현함.
 
 <hr/>
 <center>발생 문제 및 해결 방법</center>

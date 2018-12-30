@@ -62,7 +62,7 @@ permalink: /projects/ko/
 
 2) [**키다리 은행 클라이언트 및 서버 개발**](development/2016/06/01/kidaribank/) (2016.05 ~ 2016.12)
   - <img src="/assets/projects/development/kidari/capture1.png" width="240" />  |  <img src="/assets/projects/development/kidari/capture2.png" width="240"/> | <img src="/assets/projects/development/kidari/capture3.png" width="240"/>
-  - API Server: Python Flask
+  - API Server: Python Flask, PostgreSQL
   - Front-end (App): Ionic 2 (Typescript)
   - [Flask API Server Codes at GitHub](https://github.com/jeongmincha/KidariBankFlaskAPIServer)
   - [Push Polling Server Codes at GitHub](https://github.com/jeongmincha/KidariBankPushPollingServer)
@@ -77,13 +77,13 @@ permalink: /projects/ko/
 
 4) [**안드로이드 폰과 블루투스 전동차를 활용한 방범 시스템**](development/2014/09/01/android-system/) (2014.09 ~ 2014.12)
   - <img src="/assets/projects/development/android_robot/capture.png" width="560" />
-  - Android, TCP Server, Bluetooth Control, Face & Motion Recognition
+  - Android, TCP Server, Bluetooth Robot Control, Face & Motion Recognition
   - [Codes at GitHub](https://github.com/jeongmincha/cctv_using_android)
 <p />
 
 5) [**OpenWrt 공유기를 활용한 통합 파일 공유 시스템**](/projects/ko/development/2014/03/01/openwrt/) (2014.03 ~ 2014.06)
   - <img src="/assets/projects/development/nad/capture.png" width="560" />
-  - PHP, Embedded Linux
+  - PHP, MySQL, Embedded Linux
   - [Codes at GitHub](https://github.com/jeongmincha/nad)
 <p />
 

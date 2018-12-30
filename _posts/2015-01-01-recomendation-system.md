@@ -17,7 +17,8 @@ tag: [research, data, mining, collaborative, filtering, bigdata, big, data]
 <hr/>
 <center>주요 역할 및 담당</center>
 <hr/>
-본 논문의 제안 방법의 알고리즘을 C# 및 MATLAB 코드로 작성하고, 실험 결과를 정리하여 논문을 쓰는 데 반영함. (총 1명 중 1명, 박사과정 선배님 도움)
+- 본 논문의 제안 방법의 알고리즘을 C# 및 MATLAB 코드로 작성하고, 실험 결과를 정리하여 논문을 쓰는 데 반영함.
+- 실제로 실험을 주도하고 설계하는 것은 전부 본인이 하였으나, 박사과정 선배님의 연구 지도가 있었음.
 
 <hr/>
 <center>발생 문제 및 해결 방법</center>

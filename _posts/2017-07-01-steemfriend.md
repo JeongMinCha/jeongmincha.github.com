@@ -14,7 +14,7 @@ tag: [development, projects, blockchain, python, django, korean]
 <hr/>
 <center>주요 역할 및 담당</center>
 <hr/>
-Django 프레임워크를 이용하여 블록체인 데이터를 가져와 분석하고, 웹사이트에 뿌려주는 역할을 함. (총 1명 중 1명)
+- 혼자서 진행한 프로젝트로, Django 프레임워크를 이용하여 블록체인 데이터를 가져와 분석하고, 웹사이트에 뿌려주는 역할을 함.
 
 <hr/>
 <center>발생 문제 및 해결 방법</center>

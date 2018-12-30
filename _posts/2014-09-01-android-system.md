@@ -11,10 +11,13 @@ tag: []
   - 안드로이드 폰 두 개와 블루투스 제어 전동차인 BeautoRover로 방범 시스템을 개발하는 프로젝트.
   - 안드로이드 폰 하나는 CCTV역할을, 다른 하나는 BeautoRover를 제어하는 용도로 사용되었다. CCTV역할의 안드로이드 폰이 모션 인식과 얼굴 인식을 하였고, 시스템에 동록되지 않은 사용자일 경우 BeautoRover를 제어하는 안드로이드 폰과 통신하여 BeautoRover를 작동시켜서 방범 기능을 하는 방식이다.
 
+<img src="/assets/projects/development/android_robot/capture.png" />
+
 <hr/>
 <center>주요 역할 및 담당</center>
 <hr/>
-사람 얼굴을 인식하는 기능 (Face Recognition) 과 BeautoRover와 통신하는 기능 구현
+- 총 2명이 참여한 프로젝트로, 다른 팀원은 모션 인식 기능 (Motion Recognition) 과 CCTV 역할을 하는 안드로이드 폰의 앱을 구현하였고,
+- 본인은 인식된 사람이 시스템에 등록된 사람인지 아닌지를 구분하는 기능 (Face Recognition) 과 BeautoRover를 블루투스로 통신하고 제어하는 안드로이드 폰의 앱을 구현
 
 <hr/>
 <center>발생 문제 및 해결 방법</center>
