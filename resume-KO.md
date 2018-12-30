@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume(KO)
-permalink: /resume/ko/
+[comment]: permalink: /resume/ko/
 ---
 
 <div style="text-align: right"><a href="/assets/resume-KO.pdf">PDF 다운로드</a></div>

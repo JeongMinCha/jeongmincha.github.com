@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume(EN)
-permalink: /resume/en/
+[comment]: permalink: /resume/en/
 ---
 
 <img src="/images/icons8-email-52.png" width="16" height="16"/>  jeongmin.cha@kaist.ac.kr  
