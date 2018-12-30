@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects(KO)
+title: Projects (KO)
 permalink: /projects/ko/
 ---
 
