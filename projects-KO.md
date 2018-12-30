@@ -25,7 +25,7 @@ permalink: /projects/ko/
 <hr/>
 <center>개발 프로젝트 포트폴리오</center>
 <hr/>
-1. **블록체인 소셜 플랫폼 steemit 친구를 찾아주는 stemfriend** (2017.07 ~ 2017.07)
+1. [**블록체인 소셜 플랫폼 steemit 친구를 찾아주는 stemfriend**](development/2017/07/01/steemfriend/) (2017.07 ~ 2017.07)
   - Python Django
   - [Codes at GitHub](https://github.com/jeongmincha/steemfriend)
 1. **키다리 은행 클라이언트 및 서버 개발** (2016.05 ~ 2016.12)

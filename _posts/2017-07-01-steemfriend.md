@@ -1,7 +1,7 @@
 ---
 layout: post
 title: steemfriend
-categories: [projects, development]
+categories: [projects, ko, development]
 tag: [development, projects, blockchain, python, django, korean]
 ---
 
