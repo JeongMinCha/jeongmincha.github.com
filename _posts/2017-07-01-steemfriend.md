@@ -11,6 +11,8 @@ tag: [development, projects, blockchain, python, django, korean]
 - 프로젝트 개요 
   - 블록체인 소셜 플랫폼 중 하나인 steemit에서 가장 친한 친구를 찾아주는 웹 서비스를 만듬. 페이스북에서 가장 친한 친구를 찾아주는 서비스를 보고 아이디어를 생각하게 됨.
 
+<img src="/assets/projects/development/steemfriend/img.jpeg" />
+
 <hr/>
 <center>주요 역할 및 담당</center>
 <hr/>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Title 
-categories: [projects, ko, development]
+categories: [projects, ko, research]
 tag: []
 ---
 

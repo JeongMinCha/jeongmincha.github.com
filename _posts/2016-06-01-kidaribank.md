@@ -10,6 +10,8 @@ tag: [development, projects, full, stack, python, flask, api, ionic, mobile, app
 - 프로젝트 개요
   - 대학교 학생들을 위한 은행 협동 조합인 ‘키다리 은행’ 아웃소싱 개발 해준 프로젝트. 앱으로 대출 신청을 할 수 있고, 대출을 해 줄 사람들은 어떤 대출 신청들이 올라와 있는지를 확인할 수 있어야 함. 본인의 키다리 은행 내 보관된 금액과 기존 기록들을 확인할 수 있어야 함. 다만 실제로 돈이 오고 가는 일은 기존의 조합원들이 수행하고, 클라이언트 앱은 계좌 관리 및 대출 정보 확인 등의 목적을 수행함.
 
+<img src="/assets/projects/development/kidari/capture1.png" width="240" /> |  <img src="/assets/projects/development/kidari/capture2.png" width="240"/> | <img src="/assets/projects/development/kidari/capture3.png" width="240"/>
+
 <hr/>
 <center>주요 역할 및 담당</center>
 <hr/>

@@ -39,7 +39,7 @@ permalink: /projects/ko/
   - [Codes at GitHub](https://github.com/jeongmincha/Advanced-Phased-LSTM/tree/master/VariablePhasedLSTM)
 <p />
 
-5) **Best Phrases for Successful Crowdfunding Projects** (2017.03 - 2017.06)
+5) [**Best Phrases for Successful Crowdfunding Projects**](research/2017/03/01/crowdfunding/) (2017.03 - 2017.06)
   - ![](/assets/projects/research/crowdfunding/capture.png)
 <p />
 
