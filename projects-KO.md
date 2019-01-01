@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects (KO)
+title: Portfolio
 permalink: /projects/ko/
 ---
 
