@@ -42,7 +42,7 @@ permalink: /projects/ko/
 4) [**Phased LSTM with modified time gate function**](research/2017/03/01/phased-lstm/) (2017.03 - 2017.06)
   - Phased LSTM 모델에서 time gate 함수 식을 변경해서 성능 향상을 도모  
   - <img src="/assets/projects/research/phased_lstm/result-1.png" width="480" />
-  - [Codes at GitHub](https://github.com/jeongmincha/Advanced-Phased-LSTM/tree/master/VariablePhasedLSTM)
+  - [Codes at GitHub](https://github.com/jeongmincha/Advanced-Phased-LSTM)
 <p />
 
 5) **Word Embeddings for English Subtitles to catch familiarity between actors** (2017.08 - 2018.08)
