@@ -41,3 +41,5 @@ tag: [development, projects, blockchain, python, django, korean]
 - <https://steemit.com/kr/@jeongmincha/steemfriend-1>
 - <https://steemit.com/kr/@jeongmincha/steemfriend-2>
 - <https://steemit.com/kr/@jeongmincha/steemfriend-3>
+- <https://steemit.com/kr/@jeongmincha/2iufta-steemfriend>
+- <https://steemit.com/kr/@jeongmincha/steemfriend-steemtools-com>
