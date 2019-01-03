@@ -5,7 +5,6 @@ categories: [projects, ko, development]
 tag: [development, projects, blockchain, python, django, korean]
 ---
 
-![](/assets/projects/development/steemfriend/img.jpeg)
 - 참여기간
   - 2017.07 - 2017.07
 - 프로젝트 개요 
