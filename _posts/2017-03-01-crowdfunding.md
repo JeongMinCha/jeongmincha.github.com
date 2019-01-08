@@ -17,7 +17,7 @@ tag: []
 <center>주요 역할 및 담당</center>
 <hr/>
 - 총 3명이 참여했고,
-- 본인은 킥스타터 데이터 크롤링 / penalized linear regression 모델 구현 / 해당 모델을 평가 (evaluation) 하는 업무를 맡았다.
+- 본인은 penalized linear regression 모델 구현 / 해당 모델을 평가 (evaluation) 하는 업무를 맡았다.
 - 나머지 2명은 모델에 사용할 feature engineering, data cleaning, 크라우드 펀딩의 설명 글을 n-gram 데이터로 뽑아내는 업무를 맡았다.
 
 <hr/>
