@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio (ALL) 
-permalink: /projects/ko/everything
+[comment]: permalink: /projects/ko/everything
 ---
 
 <hr/>
